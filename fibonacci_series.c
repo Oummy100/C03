@@ -5,7 +5,6 @@ int main() {
     int a = 0, b = 1, suivant;
 
     // Lire la valeur limite
-    printf("Entrez une limite : ");
     scanf("%d", &limite);
 
     printf("Fibonacci : ");
